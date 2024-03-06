@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ch.zhaw.ads.ADS7_4_test" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-10-31T18:07:50" hostname="minhkhanh.zhaw.ch" time="0.026">
+  <properties/>
+  <testcase name="testLuganoWinterthur()" classname="ch.zhaw.ads.ADS7_4_test" time="0.024"/>
+  <testcase name="testWinterthurLugano()" classname="ch.zhaw.ads.ADS7_4_test" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

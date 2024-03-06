@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ch.zhaw.ads.ADS10_3_test" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-11-27T22:30:49" hostname="minhkhanh.home" time="0.033">
+  <properties/>
+  <testcase name="testFind()" classname="ch.zhaw.ads.ADS10_3_test" time="0.033"/>
+  <system-out><![CDATA[100
+92
+30
+30
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

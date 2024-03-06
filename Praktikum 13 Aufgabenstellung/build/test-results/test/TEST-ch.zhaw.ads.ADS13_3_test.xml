@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ch.zhaw.ads.ADS13_3_test" tests="8" skipped="0" failures="0" errors="0" timestamp="2023-12-12T15:01:19" hostname="minhkhanh.zhaw.ch" time="0.034">
+  <properties/>
+  <testcase name="testAfterSecondChangeGC()" classname="ch.zhaw.ads.ADS13_3_test" time="0.019"/>
+  <testcase name="testAfterAddObjecthGC()" classname="ch.zhaw.ads.ADS13_3_test" time="0.001"/>
+  <testcase name="testAfterSecondCallGC()" classname="ch.zhaw.ads.ADS13_3_test" time="0.002"/>
+  <testcase name="testRoot()" classname="ch.zhaw.ads.ADS13_3_test" time="0.001"/>
+  <testcase name="testAfterFirstGC()" classname="ch.zhaw.ads.ADS13_3_test" time="0.001"/>
+  <testcase name="testInitialHeap()" classname="ch.zhaw.ads.ADS13_3_test" time="0.001"/>
+  <testcase name="testFinalHeap()" classname="ch.zhaw.ads.ADS13_3_test" time="0.001"/>
+  <testcase name="testAfterFirstChangeGC()" classname="ch.zhaw.ads.ADS13_3_test" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ch.zhaw.ads.ADS6_5_test" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-10-24T12:41:47" hostname="minhkhanh.zhaw.ch" time="0.061">
+  <properties/>
+  <testcase name="testMixed()" classname="ch.zhaw.ads.ADS6_5_test" time="0.061"/>
+  <system-out><![CDATA[                 /----- [Z, Z, Z]
+         /----- [Y]
+ /----- [X, X, X, X, X, X, X, X]
+ |       \----- [U, U, U, U, U, U, U]
+ |               \----- [T, T, T, T, T, T]
+[S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S, S]
+ |               /----- [R, R]
+ |               |       \----- [Q, Q, Q, Q]
+ |       /----- [P, P, P, P, P]
+ |       |       |       /----- [O, O, O]
+ |       |       \----- [N]
+ |       |               \----- [L]
+ \----- [K, K, K]
+         |               /----- [I, I]
+         |       /----- [G]
+         |       |       \----- [F, F, F, F, F, F, F]
+         \----- [E, E, E, E]
+                 \----- [B]
+                         \----- [A, A]
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
